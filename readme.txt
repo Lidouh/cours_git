@@ -1,1 +1,1 @@
-Cours d'intro
+Cours d'intro à Git
